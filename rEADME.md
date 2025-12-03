@@ -34,3 +34,4 @@ Ideen lebendig werden zu lassen – präzise, kreativ und mit echter Begeisterun
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-peschke-837990b9/)
 [![Xing](https://img.shields.io/badge/-Xing-006567?logo=xing&logoColor=white)](https://www.xing.com/profile/Valeria_Peschke)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/freakyvp)
+
