@@ -27,3 +27,12 @@ Ideen lebendig werden zu lassen – präzise, kreativ und mit echter Begeisterun
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Adobe](https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?logo=adobe&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+
+---
+
+## Finde mich auch hier
+
+[![Mein Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://valeria-peschke.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-peschke-837990b9/)
+[![Xing](https://img.shields.io/badge/-Xing-006567?logo=xing&logoColor=white)](https://www.xing.com/profile/Valeria_Peschke)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/freakyvp)
